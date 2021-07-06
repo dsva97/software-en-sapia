@@ -42,8 +42,18 @@
 
     - Usar NVM
 
-      NVM instala fácilmente versiones de node js y npm, permitiendo cambiar entre ellos sin problema.
-      La cuestión es que nvm añade la versión de node js configurada a la variable de entorno PATH. En este caso se necesitará permiso de admistrador pasado por Soporte Técnico de Perú Apps. Si el cambio es frecuente y la urgencia de cambiar de versiones es mayor que la disponibilidad del Soporte Técnico podría llamarse directamente al binario de node JS dentro de la carpeta NVM.
+      NVM instala fácilmente versiones de node js y npm, permitiendo cambiar entre versiones sin problema.
+      
+      Para instalar una versión específica:
+      ```nvm install v14.17.3```
+      
+      Para configurarla la versión a usar en el directorio actual:
+      ```nvm use v14.17.3```
+      
+      Para configurarla la versión por defecto en todo el sistema:
+      ```nvm alias default v14.17.3```
+      
+      La cuestión es que nvm añade la versión de node js configurada a la variable de entorno PATH. En este caso se necesitará permiso de admistrador pasado por Soporte Técnico de Perú Apps. Si el cambio de versiones es frecuente y su urgencia de cambiar de versiones es mayor que la disponibilidad del Soporte Técnico, entonces sólo quedaría ejecutar node desde la carpeta de NVM. Por defecto en Windows es: C:\Users\[Usuario]\AppData\Roaming\nvm
 
 ## Para coordinación y diseño
 
