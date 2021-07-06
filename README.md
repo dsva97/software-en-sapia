@@ -61,6 +61,7 @@
       ```nvm alias default v14.17.3```
       
       La cuestión es que nvm añade la versión de node js configurada a la variable de entorno PATH. En este caso se necesitará permiso de admistrador pasado por Soporte Técnico de Perú Apps. Si el cambio de versiones es frecuente y su urgencia de cambiar de versiones es mayor que la disponibilidad del Soporte Técnico, entonces sólo quedaría ejecutar node desde la carpeta de NVM. Por defecto en Windows es: C:\Users\[Usuario]\AppData\Roaming\nvm
+      De todas formas, si se elige NVM, es recomendable correr los comandos anteriores inmediatamente despues de la instalación en presencia del Soporte Técnico porque, como se mencionó, se necesita el permiso del administrador.
 
 ## Para coordinación y diseño
 
