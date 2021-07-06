@@ -2,11 +2,16 @@
 
 ## Para desarrollo
 
-- DBeaver
+- DBeaver (https://dbeaver.io/)
 
-- Cliente para Mongo (Mongo Compass o Robo 3T)
+- Cliente para Mongo
+  
+  Cualquiera de los siguientes:
+  
+  - Mongo Compass (https://www.mongodb.com/try/download/community)
+  - Robo 3T (https://robomongo.org/download)
 
-- Postman
+- Postman (https://www.postman.com/downloads/)
 
   Lo usan de forma estandar en Sapia, incluso tienen una licensia pero es para usuarios de su domino.
 
@@ -40,7 +45,9 @@
 
     - Configurarlo en Docker (puede que esté demás para algunos proyectos que no usen/necesiten docker)
 
-    - Usar NVM
+    - Usando NVM
+      (En linux: https://github.com/nvm-sh/nvm)
+      (En windows: https://github.com/coreybutler/nvm-windows)
 
       NVM instala fácilmente versiones de node js y npm, permitiendo cambiar entre versiones sin problema.
       
