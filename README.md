@@ -8,8 +8,8 @@
   
   Cualquiera de los siguientes:
   
+  - Robo 3T (Recomendable) (https://robomongo.org/download)
   - Mongo Compass (https://www.mongodb.com/try/download/community)
-  - Robo 3T (https://robomongo.org/download)
 
 - Postman (https://www.postman.com/downloads/)
 
