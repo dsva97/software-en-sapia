@@ -15,9 +15,20 @@
   Alan recomendó estas extensiones: ![6 extensiones para VSCode](https://media.discordapp.net/attachments/861674535262093335/861995197700243456/unknown.png?width=675&height=670))
 
 - Docker
+ 
+  - Consideraciones
+
+    - Será necesario reiniciar para finalizar la instación.
+ 
+    - Debe ejecutarse al iniciar el sistema.
+    
 - Docker Compose (incluído en Docker Desktop para Windows)
-- Node JS
+
+    - Mismas consideraciones que con Docker. Si se ejecuta en Windows no es necesario.
+
+
 - Python 3
+- Node JS
 
   - La más estable actualmente es 14.17.3
 
