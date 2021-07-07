@@ -2,7 +2,7 @@
 
 ## Para desarrollo
 
-- OpenVPN (https://openvpn.net/community-downloads/)
+- OpenVPN (https://openvpn.net/community-downloads/) (añadir usuario al grupo "OpenVPN Administrator")
 
 - DBeaver (https://dbeaver.io/)
 
@@ -21,7 +21,7 @@
 
   Alan recomendó estas extensiones: ![6 extensiones para VSCode](https://media.discordapp.net/attachments/861674535262093335/861995197700243456/unknown.png?width=675&height=670))
 
-- Docker
+- Docker (añadir usuario al grupo "docker-users")
  
   - Consideraciones
 
