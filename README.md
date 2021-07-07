@@ -2,7 +2,7 @@
 
 ## Para desarrollo
 
-- OpenVPN
+- OpenVPN (https://openvpn.net/community-downloads/)
 
 - DBeaver (https://dbeaver.io/)
 
