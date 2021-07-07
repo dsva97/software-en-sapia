@@ -99,6 +99,9 @@
 
 (los siguientes se puede usar desde la web pero es recomendable la aplicación de escritorio)
 
-- #### Discord (https://discord.com/download)
-- #### Figma (https://www.figma.com/downloads/)
-- #### WhatsApp (https://www.whatsapp.com/download/?lang=es)
+- #### Discord
+  (https://discord.com/download)
+- #### Figma
+  (https://www.figma.com/downloads/)
+- #### WhatsApp
+  (https://www.whatsapp.com/download/?lang=es)
