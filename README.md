@@ -1,6 +1,19 @@
 # Software a instalar:
 
-## Para desarrollo
+- OpenVPN
+- DBeaver
+- Robo 3T (y/o Mongo Compass)
+- Postman
+- VSCode
+- Docker
+- Node JS
+- Python
+- Discord Desktop
+- Figma Desktop
+
+## Detalle
+
+### Para desarrollo
 
 - OpenVPN (https://openvpn.net/community-downloads/) (añadir usuario al grupo "OpenVPN Administrator")
 
@@ -41,11 +54,11 @@
 
   - Consideraciones
 
-    Es posible que más adelante necesitemos programar en una versión específica. Para ese caso hay 3 casos:
+    Aunque por ahora basta con la versión 14.17.3, es posible que más adelante se necesite programar en una versión específica. Para ese caso hay 3 casos:
 
     - Desinstalar e Instalar Node JS para cada cambio de versión. (esto pasa en windows)
 
-    - Configurarlo en Docker (puede que esté demás para algunos proyectos que no usen/necesiten docker)
+    - Configurarlo en Docker (puede que esté demás para algunos proyectos que no usen/necesiten docker, aunque cumpliría el objetivo)
 
     - Usando NVM
       (En linux: https://github.com/nvm-sh/nvm)
@@ -65,11 +78,10 @@
       La cuestión es que nvm añade la versión de node js configurada a la variable de entorno PATH. En este caso se necesitará permiso de admistrador pasado por Soporte Técnico de Perú Apps. Si el cambio de versiones es frecuente y su urgencia de cambiar de versiones es mayor que la disponibilidad del Soporte Técnico, entonces sólo quedaría ejecutar node desde la carpeta de NVM. Por defecto en Windows es: C:\Users\[Usuario]\AppData\Roaming\nvm
       De todas formas, si se elige NVM, es recomendable correr los comandos anteriores inmediatamente despues de la instalación en presencia del Soporte Técnico porque, como se mencionó, se necesita el permiso del administrador.
 
-## Para coordinación y diseño
+### Para coordinación y diseño
 
 (los siguientes se puede usar desde la web pero es recomendable la aplicación de escritorio)
 
 - Discord
 - Figma
 - WhatsApp
-- Microsoft Teams
