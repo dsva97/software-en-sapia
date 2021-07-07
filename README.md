@@ -8,8 +8,8 @@
 - [Docker Desktop](#docker)
 - [Node JS](#node-js)
 - [Python 3](#python-3)
-- [Discord Desktop](#discord-desktop)
-- [Figma Desktop](#figma-desktop)
+- [Discord Desktop](#discord)
+- [Figma Desktop](#figma)
 
 ## Detalle
 
@@ -46,8 +46,11 @@
 
   Alan recomendó estas extensiones: ![6 extensiones para VSCode](https://media.discordapp.net/attachments/861674535262093335/861995197700243456/unknown.png?width=675&height=670))
 
-- Docker (añadir usuario al grupo "docker-users")
+- #### Docker
+
   (https://www.docker.com/products/docker-desktop)
+
+  (añadir usuario al grupo "docker-users")
 
   - Consideraciones
 
