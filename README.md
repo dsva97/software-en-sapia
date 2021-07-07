@@ -2,12 +2,12 @@
 
 - [OpenVPN](#openvpn)
 - [DBeaver](#dbeaver)
-- [Robo 3T](#robot3t) (y/o [Mongo Compass](#mongo-compass)]
+- [Robo 3T](#robo-3t-recomendable) (y/o [Mongo Compass](#mongo-compass)]
 - [Postman](#postman)
 - [VSCode](#vscode)
-- [Docker](#docker)
-- [Node JS](#nodejs)
-- [Python 3](#python)
+- [Docker Desktop](#docker)
+- [Node JS](#node-js)
+- [Python 3](#python-3)
 - [Discord Desktop](#discord-desktop)
 - [Figma Desktop](#figma-desktop)
 
