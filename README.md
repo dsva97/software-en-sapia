@@ -63,6 +63,9 @@
   - Mismas consideraciones que con Docker. Si se ejecuta en Windows no es necesario.
 
 - #### Python 3
+
+  (https://www.python.org/downloads/)
+
 - #### Node JS
 
   (https://nodejs.org/es/)
