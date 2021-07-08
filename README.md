@@ -112,6 +112,6 @@
   (https://www.whatsapp.com/download/?lang=es)
   
 ### Nota
-Si se está haciendo la instalación en conjunto con Soporte técnico entonces es recomendable que se pruebe todo (incluso las conexiones a la VPN, ejecución automática de Discord al iniciar el sistema, etc.) en ese momento.
+Si se está haciendo la instalación en conjunto con Soporte técnico entonces es recomendable que se pruebe todo (incluso las conexiones a la VPN, ejecución automática de Docker al iniciar el sistema, etc.) en ese momento.
 
 ✌️
