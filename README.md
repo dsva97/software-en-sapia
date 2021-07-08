@@ -44,7 +44,9 @@
 
   (https://code.visualstudio.com/)
 
-  Alan recomendó estas extensiones: ![6 extensiones para VSCode](https://media.discordapp.net/attachments/861674535262093335/861995197700243456/unknown.png?width=675&height=670))
+  Alan recomendó estas extensiones: 
+  
+  ![6 extensiones para VSCode](https://media.discordapp.net/attachments/861674535262093335/861995197700243456/unknown.png?width=675&height=670))
 
 - #### Docker
 
